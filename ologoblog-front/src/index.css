@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+@theme {
+  --color-brand: #1e293b;  /* Slate-800 */
+  --color-accent: #ea580c; /* Orange-600 */
+}
